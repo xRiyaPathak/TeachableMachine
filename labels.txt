@@ -1,2 +1,2 @@
-0 Pikachu
-1 Eevee
+0 Class 1
+1 Class 2
